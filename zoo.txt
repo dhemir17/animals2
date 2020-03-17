@@ -1,3 +1,6 @@
 lion
 wolf
 bear
+panda
+elephant
+
